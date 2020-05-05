@@ -1,5 +1,5 @@
 # COURSERA-Python-3-Programmming-
-It is a specialization course in coursera hosted by **University of Michigan**.
+It is a specialization course of Python in coursera hosted by **University of Michigan**.
 It contains 5 courses within it:
 1:Basics of Python
 2:Python Functions, Files and Dictionaries
